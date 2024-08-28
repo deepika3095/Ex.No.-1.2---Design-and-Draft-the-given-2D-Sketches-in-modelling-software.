@@ -11,7 +11,7 @@
  
  ## PROCEDURE
  1.	Open new file and then select sketch icon.
- 2.	Select the plane for sketching. 
+ 2.	Select the plane for sketching.  
  3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
  
  ![image](https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png)
@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
- 
+ ![image](https://github.com/user-attachments/assets/ef801ae1-af0c-4bcb-bda5-86afe5febb09)
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
